@@ -6,5 +6,5 @@ public class Car {
 	String model = "그랜저";
 	String color = "검정";
 	int maxSpeed = 350;
-	int speed;
+	int speed;		// 초기값 설정 x
 }

@@ -17,6 +17,10 @@ public class CarExample {
 		//Car 객체의 필드값 변경
 		myCar.speed = 60;
 		System.out.println("수정된 속도: " + myCar.speed);
+		
+		myCar.color = "화이트";
+		System.out.println("수정된 색깔: " + myCar.color);
+		
 
 	}
 
